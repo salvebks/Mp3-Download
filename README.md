@@ -6,7 +6,9 @@ Este repositório é destinado à apresentação do aplicativo e à distribuiç�
 
 ## Download para Windows
 
-Acesse as [Releases](https://github.com/salvebks/Mp3-Download/releases) e baixe **`MP3_Downloader_2_5_Setup.exe`**.
+**[Baixar MP3 Downloader 2.5 para Windows (.exe)](https://github.com/salvebks/Mp3-Download/releases/download/v2.5/MP3_Downloader_2_5_Setup.exe)**
+
+Confira os detalhes e o arquivo de verificação de integridade na [versão 2.5](https://github.com/salvebks/Mp3-Download/releases/tag/v2.5).
 
 O botão **Code > Download ZIP** baixa apenas os arquivos de apresentação deste repositório.
 
