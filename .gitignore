@@ -1,0 +1,36 @@
+# Este repositório público contém a apresentação do aplicativo.
+# Os executáveis são anexados às Releases, fora do histórico Git.
+*.exe
+*.dll
+*.pyd
+*.zip
+*.7z
+*.rar
+
+# Código e ferramentas do projeto privado
+*.py
+*.pyc
+*.pyo
+*.spec
+*.bat
+*.ps1
+app/
+tools/
+tests/
+installer/
+
+# Componentes, compilações, dados e registros
+runtime/
+release/
+build/
+dist/
+dados/
+logs/
+__pycache__/
+*.log
+*.mp3
+*.wav
+*.part
+*.tmp
+.env
+.env.*
